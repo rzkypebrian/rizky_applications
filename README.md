@@ -1,8 +1,8 @@
-# enerren
+# rizky_applications
 
 A new Flutter project.
 
-ini adalah project kosongan sebagai dasar pembuatan project lainnya seperti membuat module,model ataupun project Utah
+ini adalah based project untuk aplikasi yang ada di Enerren. Untuk project ini tersedia hanya pada flutter versi 2, project ini belum di upgrade ke flutter versi 3.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 --cara bikin keystore
-Nandangs-MacBook-Pro:Enerren_Mobile-1 nandanghermawan$ keytool -genkey -v -keystore ~/sieraddriver.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key
+rizky-MacBook-Pro:Enerren_Mobile-1 rizky$ keytool -genkey -v -keystore ~/sieraddriver.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key
 
 --cara bikin .pem untuk reset keystore
 keytool -export -rfc -alias unggah -file upload_certificate.pem -keystore keystore.jks
