@@ -22,7 +22,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 --cara bikin keystore
-rizky-MacBook-Pro:Enerren_Mobile-1 rizky$ keytool -genkey -v -keystore ~/sieraddriver.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key
+rizky-MacBook-Pro:rizky_applications-1 rizky$ keytool -genkey -v -keystore ~/sieraddriver.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key
 
 --cara bikin .pem untuk reset keystore
 keytool -export -rfc -alias unggah -file upload_certificate.pem -keystore keystore.jks
