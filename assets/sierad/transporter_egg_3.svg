@@ -1,0 +1,10 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 147.16 232.47">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-458.92" y1="-3.14" x2="-459.92" y2="-3.14" gradientTransform="translate(67683.24 847.11) scale(147.16 232.44)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e76bc"/>
+      <stop offset="1" stop-color="#3bc6f4"/>
+    </linearGradient>
+  </defs>
+  <title>transporter_egg_3</title>
+  <path id="Subtraction_45-2" data-name="Subtraction 45-2" d="M112.85,232.44H0V25.68A114.39,114.39,0,0,1,14.26,13.19,76.77,76.77,0,0,1,31.57,3.52a46.5,46.5,0,0,1,35.52,0A76.77,76.77,0,0,1,84.4,13.19a116.16,116.16,0,0,1,16.34,14.68,156.87,156.87,0,0,1,14.85,18.74,186.62,186.62,0,0,1,12.74,21.94,193.61,193.61,0,0,1,10,24.28,179.59,179.59,0,0,1,6.51,25.76A154.87,154.87,0,0,1,147.16,145c0,17-2.55,32.83-7.61,46.91a100,100,0,0,1-21,34.91c-1.84,2-3.77,3.86-5.76,5.64Z" transform="translate(0 0.01)" fill="url(#linear-gradient)"/>
+</svg>

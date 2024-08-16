@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="81" viewBox="0 0 83 81">
+  <defs>
+    <filter id="Rectangle_4611" x="0" y="17" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4612" x="7" y="0" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7069" data-name="Group 7069" transform="translate(1 -74)">
+    <g id="Group_7070" data-name="Group 7070">
+      <g transform="matrix(1, 0, 0, 1, -1, 74)" filter="url(#Rectangle_4611)">
+        <rect id="Rectangle_4611-2" data-name="Rectangle 4611" width="46" height="46" transform="translate(9 23)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -1, 74)" filter="url(#Rectangle_4612)">
+        <rect id="Rectangle_4612-2" data-name="Rectangle 4612" width="58" height="58" transform="translate(16 6)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_7068" data-name="Group 7068" transform="translate(-5 -4)">
+      <g id="copy" transform="translate(24.654 89.804)">
+        <path id="Path_13520" data-name="Path 13520" d="M27.358,38.843H6.087A5.091,5.091,0,0,1,1,33.756V5.087A5.091,5.091,0,0,1,6.087,0H27.358a5.091,5.091,0,0,1,5.087,5.087v28.67A5.091,5.091,0,0,1,27.358,38.843Z" transform="translate(3 2)" fill="#1976d2"/>
+        <path id="Path_13521" data-name="Path 13521" d="M17.647,0H6.087A5.091,5.091,0,0,0,1,5.087v28.67a5.091,5.091,0,0,0,5.087,5.087h11.56Z" transform="translate(3 2)" fill="#1667b7"/>
+        <path id="Path_13522" data-name="Path 13522" d="M32.358,40.993H11.087A5.091,5.091,0,0,1,6,35.906V9.087A5.091,5.091,0,0,1,11.087,4H32.358a5.091,5.091,0,0,1,5.087,5.087v26.82A5.091,5.091,0,0,1,32.358,40.993Z" transform="translate(4.248 3.399)" fill="#eceff1"/>
+        <g id="Group_7037" data-name="Group 7037" transform="translate(17.647 14.797)">
+          <path id="Path_13525" data-name="Path 13525" d="M25.26,14.774H11.387a1.387,1.387,0,0,1,0-2.774H25.26a1.387,1.387,0,1,1,0,2.774Z" transform="translate(-10 -4.601)" fill="#607d8b"/>
+          <path id="Path_13526" data-name="Path 13526" d="M25.26,10.774H11.387a1.387,1.387,0,1,1,0-2.774H25.26a1.387,1.387,0,1,1,0,2.774Z" transform="translate(-10 -8)" fill="#607d8b"/>
+        </g>
+        <path id="Path_13527" data-name="Path 13527" d="M21.722,4H11.087A5.091,5.091,0,0,0,6,9.087v26.82a5.091,5.091,0,0,0,5.087,5.087H21.722V21.572c-1.734-4.855-6.936,0-6.936,0a1.387,1.387,0,1,1,0-2.774h6.936V14.173H14.786a1.387,1.387,0,1,1,0-2.774h6.936Z" transform="translate(4.248 3.399)" fill="#cdd0d2"/>
+        <path id="Path_13530" data-name="Path 13530" d="M18.323,12H11.387a1.387,1.387,0,0,0,0,2.774h6.936Z" transform="translate(7.647 10.196)" fill="#546d79"/>
+        <path id="Path_13531" data-name="Path 13531" d="M18.323,8H11.387a1.387,1.387,0,1,0,0,2.774h6.936Z" transform="translate(7.647 6.797)" fill="#546d79"/>
+      </g>
+      <g id="gear_3_" data-name="gear (3)" transform="translate(52.688 116.688)">
+        <path id="Path_13532" data-name="Path 13532" d="M17.188,7.173l-1.573-.189a7.023,7.023,0,0,0-.7-1.693l.978-1.243a.51.51,0,0,0-.04-.658L14.233,1.769a.512.512,0,0,0-.658-.04l-1.245.979a6.927,6.927,0,0,0-1.689-.7L10.452.437A.511.511,0,0,0,9.958,0H7.665a.509.509,0,0,0-.493.437L6.984,2.01a6.983,6.983,0,0,0-1.691.7L4.049,1.731a.511.511,0,0,0-.658.039L1.77,3.392a.511.511,0,0,0-.038.658l.977,1.244a6.965,6.965,0,0,0-.7,1.692L.438,7.175A.51.51,0,0,0,0,7.668V9.961a.511.511,0,0,0,.438.493l1.573.189a7.008,7.008,0,0,0,.7,1.689l-.977,1.245a.512.512,0,0,0,.04.658l1.619,1.622a.512.512,0,0,0,.658.04l1.245-.98a6.938,6.938,0,0,0,1.691.7l.189,1.572a.509.509,0,0,0,.493.437H9.959a.508.508,0,0,0,.493-.437l.189-1.572a7,7,0,0,0,1.691-.7l1.245.978a.511.511,0,0,0,.658-.039l1.621-1.622a.511.511,0,0,0,.039-.659l-.979-1.244a6.975,6.975,0,0,0,.7-1.69l1.572-.189a.509.509,0,0,0,.438-.493V7.667A.508.508,0,0,0,17.188,7.173ZM8.813,13.219a4.406,4.406,0,1,1,4.406-4.406A4.406,4.406,0,0,1,8.813,13.219Z" fill="#ffac10"/>
+      </g>
+    </g>
+  </g>
+</svg>

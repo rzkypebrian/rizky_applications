@@ -1,0 +1,13 @@
+Text((registerRdn != null)
+                  ? registerRdn.lastPage.toString()
+                  : "tidak ada data"),
+              Container(child: RaisedButton(
+                onPressed: () {
+                  RegisterRDN.connectToAPI("registration", "aasdfasdf",
+                          "c3813940bc4cfb89ff4af26667e58eb8")
+                      .then((value) {
+                    registerRdn = value;
+                    setState(() {});
+                  });
+                },
+              )),

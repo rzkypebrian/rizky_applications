@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.28" height="79.304" viewBox="0 0 82.28 79.304">
+  <defs>
+    <filter id="Path_9252" x="0" y="0" width="82.28" height="79.304" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="InovaTrack_-_Logo_white_" data-name="InovaTrack - Logo ( white )" transform="translate(-206.729 -224.95)" opacity="0.999">
+    <g transform="matrix(1, 0, 0, 1, 206.73, 224.95)" filter="url(#Path_9252)">
+      <path id="Path_9252-2" data-name="Path 9252" d="M228.781,262.3l-19.162,61.3H170.771l14.807-46.542h17.943l.523-1.389H185.927a24.072,24.072,0,0,1-15.5-5.383,22,22,0,0,1-5.923-7.815h64.28Z" transform="translate(-155.5 -256.3)" fill="#2577d6" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+Submitpage (menandakan halaman terakhir(lastpage) musti kirim balik)
+input_mempunyairekbca jika Y = lanjut ke page selanjutnya jika mengklik tombol lanjut
+Jika N = akan munculin pop up dari bawah yang isi nya OAMESSAGE jika kita klik tombol lanjut
+mandatory field belum

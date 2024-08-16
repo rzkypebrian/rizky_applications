@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="362.865" height="111.306" viewBox="0 0 362.865 111.306">
+  <g id="Group_1782" data-name="Group 1782" transform="translate(-39.741 -169.287)">
+    <g id="Group_1770" data-name="Group 1770" transform="translate(-1415 1317)">
+      <g id="Ellipse_110" data-name="Ellipse 110" transform="translate(1704 -1112)" fill="none" stroke="#fff" stroke-width="3" opacity="0.298">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="6.5" fill="none"/>
+      </g>
+      <g id="Group_1751" data-name="Group 1751" transform="translate(47.086 98.086)" opacity="0.298">
+        <path id="Path_1084" data-name="Path 1084" d="M1579-1182.3v14.213" transform="translate(-2.086)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <path id="Path_1085" data-name="Path 1085" d="M0,0V14.213" transform="translate(1584.021 -1175.192) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      </g>
+      <g id="Group_1752" data-name="Group 1752" transform="translate(232.086 36.086)" opacity="0.298">
+        <path id="Path_1084-2" data-name="Path 1084" d="M1579-1182.3v14.213" transform="translate(-2.086)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <path id="Path_1085-2" data-name="Path 1085" d="M0,0V14.213" transform="translate(1584.021 -1175.192) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      </g>
+      <g id="Polygon_9" data-name="Polygon 9" transform="matrix(0.899, -0.438, 0.438, 0.899, 1454.741, -1050.785)" fill="none" stroke-linecap="round" opacity="0.298">
+        <path d="M8,0l8,14H0Z" stroke="none"/>
+        <path d="M 7.999999523162842 4.031137466430664 L 3.44636344909668 12 L 12.55363464355469 12 L 7.999999523162842 4.031137466430664 M 7.999999523162842 0 L 16 14 L -9.5367431640625e-07 14 L 7.999999523162842 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <g id="Polygon_8" data-name="Polygon 8" transform="matrix(0.966, 0.259, -0.259, 0.966, 1736.084, -1057.832)" fill="none" stroke-linecap="round" opacity="0.298">
+        <path d="M8,0l8,14H0Z" stroke="none"/>
+        <path d="M 7.999999523162842 4.031137466430664 L 3.44636344909668 12 L 12.55363464355469 12 L 7.999999523162842 4.031137466430664 M 7.999999523162842 0 L 16 14 L -9.5367431640625e-07 14 L 7.999999523162842 0 Z" stroke="none" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Polygon_10" data-name="Polygon 10" d="M3.5,0,7,14H0Z" transform="matrix(-0.616, 0.788, -0.788, -0.616, 386.23, 262.523)" fill="#fff" opacity="0.301"/>
+    <path id="Polygon_12" data-name="Polygon 12" d="M3.5,0,7,14H0Z" transform="translate(380.497 273.349) rotate(89)" fill="#fff" opacity="0.301"/>
+    <path id="Polygon_11" data-name="Polygon 11" d="M3.5,0,7,14H0Z" transform="translate(396 262.416) rotate(172)" fill="#fff" opacity="0.301"/>
+  </g>
+</svg>
